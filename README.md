@@ -13,7 +13,7 @@ php composer.phar require --prefer-dist infinitiweb/yii2-domain-manager "*"
 or add
 
 ```
-"infinitiweb/yii2-domain-manager": "^1.1"
+"infinitiweb/yii2-domain-manager": "*"
 ```
 
 to the require section of your `composer.json` file.
